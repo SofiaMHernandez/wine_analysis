@@ -19,7 +19,6 @@ wines          → Id, quality, alcohol
 acidity        → Id, fixed_acidity, volatile_acidity, citric_acid, pH
 chemical_props → Id, residual_sugar, chlorides, sulphates, density
 sulfur         → Id, free_sulfur_dioxide, total_sulfur_dioxide
-
 ```
 All tables relate through `Id` (Primary Key)
 
