@@ -114,3 +114,11 @@ wine_quality_analysis.sql
 - Review wines with **total SO2 > 100 mg/L** as they consistently score lower quality
 - The 82% concentration in medium quality (5-6) suggests significant room for 
   improvement through targeted adjustments in volatile acidity and sulphate levels
+
+---
+
+  ## Dashboard Preview
+Interactive dashboard available on Tableau Public:
+
+[Wine Quality Dashboard]([LINK_TABLEAU](https://public.tableau.com/app/profile/sofia.hernandez.bellone/viz/WineQualityAnalysisDashboard_17755841219410/Dashboard1))
+
