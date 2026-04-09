@@ -29,6 +29,7 @@ All tables relate through `Id` (Primary Key)
 ---
 
 ## File Structure
+```
 wine_quality_analysis.sql
 │
 ├── 1. OVERVIEW
@@ -36,6 +37,7 @@ wine_quality_analysis.sql
 ├── 3. CHEMICAL PROPERTIES ANALYSIS
 ├── 4. SULFUR ANALYSIS
 └── 5. ADVANCED ANALYSIS
+## File Structure
 
 ---
 
