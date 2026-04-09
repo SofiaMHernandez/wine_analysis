@@ -37,8 +37,7 @@ wine_quality_analysis.sql
 ├── 3. CHEMICAL PROPERTIES ANALYSIS
 ├── 4. SULFUR ANALYSIS
 └── 5. ADVANCED ANALYSIS
-## File Structure
-
+```
 ---
 
 ## Key Findings
