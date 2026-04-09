@@ -120,5 +120,5 @@ wine_quality_analysis.sql
   ## Dashboard Preview
 Interactive dashboard available on Tableau Public:
 
-[Wine Quality Dashboard]([https://public.tableau.com/app/profile/sofia.hernandez.bellone/viz/WineQualityAnalysisDashboard_17755841219410/Dashboard1])
+[Wine Quality Dashboard](https://public.tableau.com/app/profile/sofia.hernandez.bellone/viz/WineQualityAnalysisDashboard_17755841219410/Dashboard1)
 
